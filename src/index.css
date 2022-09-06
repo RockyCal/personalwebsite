@@ -1,3 +1,11 @@
 body {
-	background-color: #d1a2f5;
+	background-color: #A1E8AF;
+}
+
+@font-face {
+	font-family: 'poppinsregular';
+	src: url('./assets/fonts/poppins-regular-webfont.woff2') format('woff2'),
+		url('./assets/fonts/poppins-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
